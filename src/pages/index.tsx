@@ -106,7 +106,7 @@ export default function Home() {
           fontWeight: "normal"
         }}>Your Weather Source</h1>
 
-        <div style={{ marginTop: "20px", paddingRight: "10px", paddingBottom: "25px" }}>
+        <div style={{ marginTop: "5px", paddingRight: "10px", paddingBottom: "25px" }}>
           {showCityName && <h1 style={{
             textTransform: "capitalize",
             backgroundColor: "lightblue",
