@@ -1,6 +1,6 @@
 import { useState } from "react";
-import { HourWeatherResponse } from "./WeatherContext";
-import { ForecastWeatherResponse } from "./WeatherContext";
+import { HourWeatherResponse } from "../data/WeatherContext";
+import { ForecastWeatherResponse } from "../data/WeatherContext";
 
 export default function Home() {
 
