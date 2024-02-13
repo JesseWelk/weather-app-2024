@@ -9,3 +9,4 @@ SkyTrackers is a easily scannable and accessible weather app where you can searc
 ## Installations 
 npm i
 npm install fetch
+npm install typescript --save-dev
